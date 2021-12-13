@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/digital-cv/static/css/main.a617e044.chunk.css",
-    "main.js": "/digital-cv/static/js/main.49c0e0e2.chunk.js",
-    "main.js.map": "/digital-cv/static/js/main.49c0e0e2.chunk.js.map",
+    "main.js": "/digital-cv/static/js/main.203155fc.chunk.js",
+    "main.js.map": "/digital-cv/static/js/main.203155fc.chunk.js.map",
     "runtime-main.js": "/digital-cv/static/js/runtime-main.10f264bc.js",
     "runtime-main.js.map": "/digital-cv/static/js/runtime-main.10f264bc.js.map",
-    "static/js/2.71312426.chunk.js": "/digital-cv/static/js/2.71312426.chunk.js",
-    "static/js/2.71312426.chunk.js.map": "/digital-cv/static/js/2.71312426.chunk.js.map",
+    "static/js/2.3a982631.chunk.js": "/digital-cv/static/js/2.3a982631.chunk.js",
+    "static/js/2.3a982631.chunk.js.map": "/digital-cv/static/js/2.3a982631.chunk.js.map",
     "static/js/3.7d2c046a.chunk.js": "/digital-cv/static/js/3.7d2c046a.chunk.js",
     "static/js/3.7d2c046a.chunk.js.map": "/digital-cv/static/js/3.7d2c046a.chunk.js.map",
     "index.html": "/digital-cv/index.html",
     "static/css/main.a617e044.chunk.css.map": "/digital-cv/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.71312426.chunk.js.LICENSE.txt": "/digital-cv/static/js/2.71312426.chunk.js.LICENSE.txt",
+    "static/js/2.3a982631.chunk.js.LICENSE.txt": "/digital-cv/static/js/2.3a982631.chunk.js.LICENSE.txt",
     "static/media/logo.de330377.svg": "/digital-cv/static/media/logo.de330377.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.10f264bc.js",
-    "static/js/2.71312426.chunk.js",
+    "static/js/2.3a982631.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.49c0e0e2.chunk.js"
+    "static/js/main.203155fc.chunk.js"
   ]
 }
