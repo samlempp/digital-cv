@@ -3,7 +3,7 @@ import piccuplogo from "../piccup.png";
 
 const PiccupCard = () => {
   return (
-    <Card>
+    <Card bg="dark">
       <Card.Header
         className="piccup-card"
         onClick={() => window.open("https://piccup.herokuapp.com/index.html")}

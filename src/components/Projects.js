@@ -5,9 +5,9 @@ import PiccupCard from "./PiccupCard";
 
 const Projects = () => {
   return (
-    <div className="pt-5 bg-light" style={{ minHeight: "100vh" }}>
+    <div className="pt-5 bg-dark" style={{ minHeight: "100vh" }}>
       <Container>
-        <Card className="p-5">
+        <Card className="p-5 bg-black text-light">
           <Row>
             <Col>
               <PearCard />

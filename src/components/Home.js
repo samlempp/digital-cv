@@ -6,10 +6,10 @@ import PiccupCard from "./PiccupCard";
 
 const Home = () => {
   return (
-    <div className="pt-5 bg-light" height="100%">
+    <div className="pt-5 bg-dark text-light" height="100%">
       <Container>
-        <Card className="p-5">
-          <h2>
+        <Card className="p-5 bg-black">
+          <h3>
             My name is Sam Lempp. I am a{" "}
             <span className="text-primary">full-stack developer</span> with
             experience in{" "}
@@ -21,9 +21,13 @@ const Home = () => {
             This website is built entirely in React using the{" "}
             <span className="text-warning">Bootstrap </span>
             css framework
-          </h2>
-          <Container className="p-3 pb-5">
-            <Button className="btn fs-4" href="mailto:slempp@live.unc.edu">
+          </h3>
+          <Container className="p-3 pb-5 d-flex justify-content-center">
+            <Button
+              className="fs-4 p-2"
+              variant="outline-light"
+              href="mailto:slempp@live.unc.edu"
+            >
               Contact Me
             </Button>
           </Container>

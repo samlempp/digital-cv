@@ -4,9 +4,9 @@ import "../index.css";
 const Navigation = () => {
   return (
     <>
-      <Navbar bg="dark" variant="dark">
+      <Navbar bg="black" variant="dark">
         <Container fluid>
-          <Navbar.Brand href="/">
+          <Navbar.Brand href="#">
             <img
               alt=""
               src={Logo}
@@ -18,7 +18,7 @@ const Navigation = () => {
             {"  "}
           </Navbar.Brand>
           <Nav>
-            <Nav.Link href="/projects">Projects</Nav.Link>
+            <Nav.Link href="#projects">Projects</Nav.Link>
             <Nav.Link href="#Experience">Experience</Nav.Link>
           </Nav>
         </Container>

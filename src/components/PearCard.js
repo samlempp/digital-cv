@@ -3,7 +3,7 @@ import pearlogo from "../pear logo.svg";
 
 const PearCard = () => {
   return (
-    <Card>
+    <Card bg="dark" text="light">
       <Card.Header
         className="pear-card"
         onClick={() =>
@@ -11,7 +11,7 @@ const PearCard = () => {
         }
       >
         <h1
-          className="fw-light display-2"
+          className="display-2"
           style={{
             margin: "auto",
             verticalAlign: "middle",
