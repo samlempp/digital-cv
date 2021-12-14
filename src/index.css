@@ -20,4 +20,6 @@ code {
   background-color: #00d1b2 !important;
   text-align: center;
   vertical-align: middle;
+  margin-top: auto;
+  margin-bottom: auto;
 }

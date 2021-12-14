@@ -11,14 +11,14 @@ const PearCard = () => {
         }
       >
         <h1
-          className="display-3"
+          className="display-6"
           style={{
             margin: "auto",
             verticalAlign: "middle",
             alignContent: "center",
           }}
         >
-          <img src={pearlogo} alt="Pear Logo" height="70vh" width="auto" /> Pear
+          <img src={pearlogo} alt="Pear Logo" height="50vh" width="auto" /> Pear
         </h1>
       </Card.Header>
       <Card.Body>
