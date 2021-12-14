@@ -2,7 +2,7 @@
   "name": "digital-cv",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://samlempp.github.io/digital-cv",
+  "homepage": "https://samlempp.dev",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^11.2.7",

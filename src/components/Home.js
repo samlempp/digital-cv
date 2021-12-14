@@ -6,7 +6,7 @@ import PiccupCard from "./PiccupCard";
 
 const Home = () => {
   return (
-    <div className="pt-5 bg-light vh-100">
+    <div className="pt-5 bg-light" height="100%">
       <Container>
         <Card className="p-5">
           <h2>
@@ -27,9 +27,9 @@ const Home = () => {
               Contact Me
             </Button>
           </Container>
-          <h3 className="fw-bold">Featured Work</h3>
+          <h3 className="fw-bold mb-5">Featured Work</h3>
           <Row>
-            <Col>
+            <Col className="mb-5">
               <PearCard />
             </Col>
             <Col>

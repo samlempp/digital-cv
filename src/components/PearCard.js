@@ -5,13 +5,20 @@ const PearCard = () => {
   return (
     <Card>
       <Card.Header
-        className="pear-card p-4"
+        className="pear-card"
         onClick={() =>
           window.open("http://pear-git-slempp.apps.cloudapps.unc.edu/")
         }
       >
-        <h1 className="display-1">
-          <img src={pearlogo} alt="Pear Logo" width="100" height="100" /> Pear
+        <h1
+          className="fw-light display-2"
+          style={{
+            margin: "auto",
+            verticalAlign: "middle",
+            alignContent: "center",
+          }}
+        >
+          <img src={pearlogo} alt="Pear Logo" height="90vh" /> Pear
         </h1>
       </Card.Header>
       <Card.Body>
@@ -20,6 +27,9 @@ const PearCard = () => {
         tool Qualtrics to access key-value pairs in databases and return them to
         survey takers in real time.
       </Card.Body>
+      <Card.Footer>
+        <a href="https://github.com/jmp929/pear">Visit Github</a>
+      </Card.Footer>
     </Card>
   );
 };

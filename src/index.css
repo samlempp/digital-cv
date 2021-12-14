@@ -14,6 +14,10 @@ code {
 
 .pear-card {
   background-image: linear-gradient(to bottom right, #72cf9c, #c7f9cc);
-  height: 172px;
   text-align: center;
+}
+.piccup-card {
+  background-color: #00d1b2 !important;
+  text-align: center;
+  vertical-align: middle;
 }
