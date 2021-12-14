@@ -8,7 +8,7 @@ const PiccupCard = () => {
         className="piccup-card"
         onClick={() => window.open("https://piccup.herokuapp.com/index.html")}
       >
-        <img src={piccuplogo} height="100vh" />
+        <img src={piccuplogo} height="80vh" width="auto" />
       </Card.Header>
       <Card.Body>
         Piccup is a platform to post and RSVP to pick-up sports games in your

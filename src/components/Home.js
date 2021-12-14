@@ -11,7 +11,7 @@ const Home = () => {
         <Card className="p-5 bg-black">
           <h3>
             My name is Sam Lempp. I am a{" "}
-            <span className="text-primary">full-stack developer</span> with
+            <span className="text-info">full-stack developer</span> with
             experience in{" "}
             <span className="text-success">
               JavaScript, TypeScript, Java, Python, C, and SQL.{" "}
